@@ -71,8 +71,10 @@ listaGustos.add("Me encanta el café ☕")
 -->
 
 <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=JoseDev155&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="my Github Stats" height="300" width="400" />
-          <img src="https://streak-stats.demolab.com/?user=JoseDev155&theme=transparent" alt="my GitHub Stats 2" height="300" width="400" />
+          <a href="https://github.com/JoseDev155/github-readme-stats">
+                    <img src="https://github-readme-stats.vercel.app/api?username=JoseDev155&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="my Github Stats" height="200" width="400" />
+          </a>
+          <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoseDev155&theme=transparent&card_width=400" alt="GitHub Streak" /></a>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev155&layout=compact&show_icons=true&theme=transparent" />
           <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </div>
