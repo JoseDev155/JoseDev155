@@ -19,7 +19,7 @@ listaGustos.add("Me encanta la programación y todo lo relacionado a
           la tecnología 💻");
 listaGustos.add("Fan de Arduino 🤖");
 listaGustos.add("Me gusta el deporte 🏋️‍♂️");
-listaGustos.add("Me encanta el café ☕")
+listaGustos.add("Me encanta el café ☕");
 ```
 
 - 👯 Busco contribuir a los demás con mis conocimientos
