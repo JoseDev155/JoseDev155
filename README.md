@@ -26,7 +26,7 @@ listaGustos.add("Me encanta el café ☕");
 - 🌱 Actualmente estoy aprendiendo:
   - **Java** (JSP, JSF)
   - **PHP** (POO y creación de API RESTful)
-  - **JavaScript** (Consumo de API's)
+  - **JavaScript** (Consumo de API's, React, jQuery)
 - ✔ Pregúntame cualquier cosa, estoy feliz de ayudar<br>
 
 <h1 align="center">🚀 My Skills</h1>
