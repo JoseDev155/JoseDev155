@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy José <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Jose <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About me**
 
@@ -6,29 +6,28 @@
 
 ```java
 System.out.println("
-          Hola Mundo. Mi nombre es José Eduardo Ramos. Soy
-          estudiante de cuarto año de la carrera de Ingeniería
-          en Sistemas Informáticos en UNICAES, El Salvador.
-          Mi principal enfoque es el desarrollo web.
+          Hello World. My name is Jose Ramos. I am a fifth year
+          student of the Computer Systems Engineering degree at
+          UNICAES, El Salvador. My main focus is web development.
 ");
 ```
 
 ```java
-List<String> listaGustos = new ArrayList<>();
-listaGustos.add("Me encanta la programación y todo lo relacionado a
-          la tecnología 💻");
-listaGustos.add("Fan de Arduino 🤖");
-listaGustos.add("Me gusta el deporte 🏋️‍♂️");
-listaGustos.add("Me encanta el café ☕");
+List<String> myInterests = new ArrayList<>();
+myInterests.add("I love programming and everything related to
+          technology 💻");
+myInterests.add("Arduino fan 🤖");
+myInterests.add("I like sports 🏋️‍♂️");
+myInterests.add("I love coffee ☕");
 ```
 
-- 👯 Busco contribuir a los demás con mis conocimientos
-- 🌱 Actualmente estoy aprendiendo:
+- 👯 I'm looking to contribute to others with my knowledge
+- 🌱 I'm currently learning:
   - **Java** (JSP, JSF)
-  - **PHP** (POO y creación de API RESTful)
-  - **JavaScript** (Consumo de API's, React, jQuery)
-  - AutoCAD y Revit 🏗️
-- ✔ Pregúntame cualquier cosa, estoy feliz de ayudar<br>
+  - **PHP** (OOP and RESTful API creation)
+  - **JavaScript** (API consumption, React, jQuery)
+  - AutoCAD and Revit 🏗️
+- ✔ Ask me anything, I'm happy to help<br>
 
 <h1 align="center">🚀 My Skills</h1>
 
