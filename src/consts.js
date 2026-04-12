@@ -22,7 +22,5 @@ export const TOP_LANGS_URL = [
 ];
 
 export const PLACEHOLDERS = Object.freeze({
-  STATS: '%{{gh_stats}}%',
-  STREAKS: '%{{gh_streaks}}%',
-  LANGS: '%{{gh_top_langs}}%'
+  STATS: '%{{stats}}%'
 })

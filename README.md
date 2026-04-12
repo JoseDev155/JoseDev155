@@ -26,7 +26,7 @@ myInterests.add("I love coffee ☕");
   - **Java** (JSP, JSF)
   - **PHP** (OOP and RESTful API creation)
   - **JavaScript** (API consumption, React, jQuery)
-  - AutoCAD and Revit 🏗️
+  - **AutoCAD** and **Revit** 🏗️
 - ✔ Ask me anything, I'm happy to help<br>
 
 <h1 align="center">🚀 My Skills</h1>
@@ -70,78 +70,42 @@ myInterests.add("I love coffee ☕");
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev155&layout=compact&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
 -->
 
-%{{stats}}%
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.imjoseramos.dev/api/?username=JoseDev155&key={STATS_KEY}&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="my Github Stats" width=400 />
+  </a>
+  <a href="https://git.io/streak-stats" target="_blank"><img height=200 src="https://github-readme-streak-stats.imjoseramos.dev/demo/?user=JoseDev155&key={STATS_KEY}&theme=transparent&card_width=400" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.imjoseramos.dev/api/top-langs/?username=JoseDev155&key={STATS_KEY}&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+</div>
 
 <h1 align="center">📌 Latest Projects</h1>
 
-<style>
-.repo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 16px;
-  margin: 12px 0 0;
-}
-.repo-card {
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 12px;
-  padding: 14px 16px;
-  background: rgba(255, 255, 255, 0.04);
-  backdrop-filter: blur(4px);
-  text-align: left;
-}
-.repo-card__header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-  margin-bottom: 6px;
-}
-.repo-card__title {
-  margin: 0;
-  font-size: 1rem;
-}
-.repo-card__title a {
-  text-decoration: none;
-}
-.repo-card__badge {
-  font-size: 0.85rem;
-  opacity: 0.8;
-  white-space: nowrap;
-}
-.repo-card__desc {
-  margin: 6px 0 10px;
-  font-size: 0.95rem;
-}
-.repo-card__meta {
-  margin: 0;
-  font-size: 0.9rem;
-  opacity: 0.85;
-}
-</style>
-<div class="repo-grid">
-<article class="repo-card">
-  <header class="repo-card__header">
-    <h4 class="repo-card__title"><a href="https://github.com/JoseDev155/Sistema-De-Asistencias-UBBJ">Sistema-De-Asistencias-UBBJ</a></h4>
-    <span class="repo-card__badge">🟢 Public</span>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 12px 0 0;">
+<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
+  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/Sistema-De-Asistencias-UBBJ" style="text-decoration: none;">Sistema-De-Asistencias-UBBJ</a></h4>
+    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
-  <p class="repo-card__desc">Sistema de asistencias para una institución educativa. Registra entradas, calcula puntualidad y retardos, genera reportes y estadísticas para supervisión administrativa. (En pagina web con login)</p>
-  <p class="repo-card__meta"><code>Python</code> &nbsp;·&nbsp; 1 ⭐</p>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">Sistema de asistencias para una institución educativa. Registra entradas, calcula puntualidad y retardos, genera reportes y estadísticas para supervisión administrativa. (En pagina web con login)</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Python</code> &nbsp;·&nbsp; 1 ⭐</p>
 </article>
-<article class="repo-card">
-  <header class="repo-card__header">
-    <h4 class="repo-card__title"><a href="https://github.com/JoseDev155/unicaes-edd-tareas-periodo2">unicaes-edd-tareas-periodo2</a></h4>
-    <span class="repo-card__badge">🟢 Public</span>
+<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
+  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/unicaes-edd-tareas-periodo2" style="text-decoration: none;">unicaes-edd-tareas-periodo2</a></h4>
+    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
-  <p class="repo-card__desc">Repositorio de tareas del Periodo II de la asignatura Estructura de Datos (EDD) - UNICAES</p>
-  <p class="repo-card__meta"><code>Java</code> &nbsp;·&nbsp; 1 ⭐</p>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">Repositorio de tareas del Periodo II de la asignatura Estructura de Datos (EDD) - UNICAES</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Java</code> &nbsp;·&nbsp; 1 ⭐</p>
 </article>
-<article class="repo-card">
-  <header class="repo-card__header">
-    <h4 class="repo-card__title"><a href="https://github.com/JoseDev155/unicaes-edd-ciclo-ii-2025">unicaes-edd-ciclo-ii-2025</a></h4>
-    <span class="repo-card__badge">🟢 Public</span>
+<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
+  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/unicaes-edd-ciclo-ii-2025" style="text-decoration: none;">unicaes-edd-ciclo-ii-2025</a></h4>
+    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
-  <p class="repo-card__desc">(ES) Repositorio de notas de la asignatura Estructura de Datos (EDD) - UNICAES</p>
-  <p class="repo-card__meta"><code>JavaScript</code> &nbsp;·&nbsp; 1 ⭐</p>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de notas de la asignatura Estructura de Datos (EDD) - UNICAES</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>JavaScript</code> &nbsp;·&nbsp; 1 ⭐</p>
 </article>
 </div>
 
