@@ -12,7 +12,7 @@ export const STATS_URL = [
   `https://github-readme-stats.vercel.app/api?username=${USERNAME}&include_all_commits=true&count_private=true&show_icons=true&theme=transparent`
 ];
 export const STREAKS_URL = [
-  `https://github-readme-streak-stats.imjoseramos.dev/demo/?user=${USERNAME}&key=${STATS_KEY}&theme=transparent&card_width=400`,
+  `https://github-readme-streak-stats.imjoseramos.dev/?user=${USERNAME}&key=${STATS_KEY}&theme=transparent&card_width=400`,
   // Denver's original URL (if you want to switch back):
   `https://streak-stats.demolab.com?user=${USERNAME}&theme=transparent&card_width=400`
 ];
