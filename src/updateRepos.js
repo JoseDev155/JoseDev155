@@ -4,7 +4,7 @@
  */
 
 import https from 'node:https'
-import { USERNAME, REPOS_SECTION } from './consts.js'
+import { USERNAME, REPOS_SECTION } from './constants.js'
 
 const REPOS_PLACEHOLDER = typeof REPOS_SECTION === 'string'
   ? REPOS_SECTION

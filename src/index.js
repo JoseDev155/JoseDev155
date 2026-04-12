@@ -4,7 +4,7 @@
  */
 
 import { promises as fs } from 'node:fs'
-import { PLACEHOLDERS, STATS_URL, STREAKS_URL, TOP_LANGS_URL } from './consts.js'
+import { PLACEHOLDERS, STATS_URL, STREAKS_URL, TOP_LANGS_URL } from './constants.js'
 import { getReposHTML } from './updateRepos.js'
 
 const FETCH_TIMEOUT_MS = 10_000

@@ -43,8 +43,6 @@ jobs:
         env:
           STATS_KEY: ${{ secrets.STATS_KEY }} # Your secret key for fetching stats
           #GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional: only needed for private repos
-        #run: |
-        #    sed -i "s/TU_LLAVE_AQUI/$MY_SECRET_KEY/g" README.md
 
       - run: |
           git config user.name readme-bot

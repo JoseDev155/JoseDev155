@@ -15,7 +15,8 @@
     "readme",
     "github profile",
     "github readme"
-  ],"engines": {
+  ],
+  "engines": {
     "node": ">=22.*"
   }
 }
