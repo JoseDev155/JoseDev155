@@ -26,7 +26,7 @@ myInterests.add("I love coffee ☕");
   - **Java** (JSP, JSF)
   - **PHP** (OOP and RESTful API creation)
   - **JavaScript** (API consumption, React, jQuery)
-  - **AutoCAD** and **Revit** 🏗️
+  - AutoCAD and Revit 🏗️
 - ✔ Ask me anything, I'm happy to help<br>
 
 <h1 align="center">🚀 My Skills</h1>
