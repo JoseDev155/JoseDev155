@@ -70,19 +70,20 @@ myInterests.add("I love coffee ☕");
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDev155&layout=compact&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" />
 -->
 
+
 <div align="center">
   <div style="margin-bottom: 12px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.imjoseramos.dev/api/?username=JoseDev155&key=&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="my Github Stats" width=400 />
+      <img height=200 src="https://github-readme-stats.imjoseramos.dev/api/?username=JoseDev155&key=L]81^cAnqX<\m>~DT\`Z&include_all_commits=true&count_private=true&show_icons=true&theme=transparent" alt="my Github Stats" width=400 />
     </a>
   </div>
   <div style="margin-bottom: 12px;">
     <a href="https://git.io/streak-stats" target="_blank">
-      <img height=200 src="https://github-readme-streak-stats.imjoseramos.dev/?user=JoseDev155&key=&theme=transparent&card_width=400" alt="GitHub Streak" />
+      <img height=200 src="https://github-readme-streak-stats.imjoseramos.dev/?user=JoseDev155&key=L]81^cAnqX<\m>~DT\`Z&theme=transparent&card_width=400" alt="GitHub Streak" />
     </a>
   </div>
   <div style="margin-bottom: 12px;">
-    <img src="https://github-readme-stats.imjoseramos.dev/api/top-langs/?username=JoseDev155&key=&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
+    <img src="https://github-readme-stats.imjoseramos.dev/api/top-langs/?username=JoseDev155&key=L]81^cAnqX<\m>~DT\`Z&layout=compact&show_icons=true&theme=transparent" alt="Top Langs" />
   </div>
   <div>
     <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
