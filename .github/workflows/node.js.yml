@@ -45,7 +45,7 @@ jobs:
         #    sed -i "s/TU_LLAVE_AQUI/$MY_SECRET_KEY/g" README.md
 
       - name: Commit and push changes
-        uses: stefanzwi/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "bot: update README with latest repos [skip ci]"
           file_pattern: README.md
