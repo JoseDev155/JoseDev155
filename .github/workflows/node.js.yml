@@ -2,7 +2,13 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    # GitHub Actions uses UTC time, so adjust the cron schedule accordingly if you want it
+    # to run at a specific local time
+    
+    #- cron: "0 0 * * *" # Runs every day at midnight UTC
+    
+    # Central America is 6 hours behind UTC (UTC-6)
+    - cron: "0 6 * * *" # Runs every day at midnight in UTC-6
   workflow_dispatch: # Allows manual trigger from GitHub UI
   push:
     branches:
