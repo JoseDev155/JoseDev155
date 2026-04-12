@@ -1,0 +1,53 @@
+name: Update README.md
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24.x"
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: latest
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Run update script
+        run: node src/index.js
+        env:
+          STATS_KEY: ${{ secrets.STATS_KEY }} # Your secret key for fetching stats
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional: only needed for private repos
+        #run: |
+        #    sed -i "s/TU_LLAVE_AQUI/$MY_SECRET_KEY/g" README.md
+
+      - name: Commit and push changes
+        uses: stefanzwi/git-auto-commit-action@v5
+        with:
+          commit_message: "bot: update README with latest repos [skip ci]"
+          file_pattern: README.md
+          commit_user_name: "readme-bot"
+          commit_user_email: "readme-bot@users.noreply.github.com"

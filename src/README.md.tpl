@@ -74,76 +74,7 @@ myInterests.add("I love coffee ☕");
 
 <h1 align="center">📌 Latest Projects</h1>
 
-<style>
-.repo-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 16px;
-  margin: 12px 0 0;
-}
-.repo-card {
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 12px;
-  padding: 14px 16px;
-  background: rgba(255, 255, 255, 0.04);
-  backdrop-filter: blur(4px);
-  text-align: left;
-}
-.repo-card__header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 8px;
-  margin-bottom: 6px;
-}
-.repo-card__title {
-  margin: 0;
-  font-size: 1rem;
-}
-.repo-card__title a {
-  text-decoration: none;
-}
-.repo-card__badge {
-  font-size: 0.85rem;
-  opacity: 0.8;
-  white-space: nowrap;
-}
-.repo-card__desc {
-  margin: 6px 0 10px;
-  font-size: 0.95rem;
-}
-.repo-card__meta {
-  margin: 0;
-  font-size: 0.9rem;
-  opacity: 0.85;
-}
-</style>
-<div class="repo-grid">
-<article class="repo-card">
-  <header class="repo-card__header">
-    <h4 class="repo-card__title"><a href="https://github.com/JoseDev155/Sistema-De-Asistencias-UBBJ">Sistema-De-Asistencias-UBBJ</a></h4>
-    <span class="repo-card__badge">🟢 Public</span>
-  </header>
-  <p class="repo-card__desc">Sistema de asistencias para una institución educativa. Registra entradas, calcula puntualidad y retardos, genera reportes y estadísticas para supervisión administrativa. (En pagina web con login)</p>
-  <p class="repo-card__meta"><code>Python</code> &nbsp;·&nbsp; 1 ⭐</p>
-</article>
-<article class="repo-card">
-  <header class="repo-card__header">
-    <h4 class="repo-card__title"><a href="https://github.com/JoseDev155/unicaes-edd-tareas-periodo2">unicaes-edd-tareas-periodo2</a></h4>
-    <span class="repo-card__badge">🟢 Public</span>
-  </header>
-  <p class="repo-card__desc">Repositorio de tareas del Periodo II de la asignatura Estructura de Datos (EDD) - UNICAES</p>
-  <p class="repo-card__meta"><code>Java</code> &nbsp;·&nbsp; 1 ⭐</p>
-</article>
-<article class="repo-card">
-  <header class="repo-card__header">
-    <h4 class="repo-card__title"><a href="https://github.com/JoseDev155/unicaes-edd-ciclo-ii-2025">unicaes-edd-ciclo-ii-2025</a></h4>
-    <span class="repo-card__badge">🟢 Public</span>
-  </header>
-  <p class="repo-card__desc">(ES) Repositorio de notas de la asignatura Estructura de Datos (EDD) - UNICAES</p>
-  <p class="repo-card__meta"><code>JavaScript</code> &nbsp;·&nbsp; 1 ⭐</p>
-</article>
-</div>
+%{{repos}}%
 
 
 <!--

@@ -1,0 +1,22 @@
+{
+  "name": "josedev155",
+  "version": "1.0.0",
+  "description": "JoseDev155 README GitHub profile",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseDev155/JoseDev155.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],"engines": {
+    "node": ">=22.*"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
