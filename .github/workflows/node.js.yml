@@ -44,10 +44,9 @@ jobs:
         #run: |
         #    sed -i "s/TU_LLAVE_AQUI/$MY_SECRET_KEY/g" README.md
 
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: "bot: update README with latest repos [skip ci]"
-          file_pattern: README.md
-          commit_user_name: "readme-bot"
-          commit_user_email: "readme-bot@users.noreply.github.com"
+      - run: |
+          git config user.name readme-bot
+          git config user.email readme-bot@users.noreply.github.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+          git push origin master
