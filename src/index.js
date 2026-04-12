@@ -57,13 +57,23 @@ async function setURLs () {
 
 function generateStatsHTML (items) {
   return `
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="${items.statsUrl}" alt="my Github Stats" width=400 />
-  </a>
-  <a href="https://git.io/streak-stats" target="_blank"><img height=200 src="${items.streaksUrl}" alt="GitHub Streak" /></a>
-  <img src="${items.topLangsUrl}" alt="Top Langs" />
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+<div align="center">
+  <div style="margin-bottom: 12px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 src="${items.statsUrl}" alt="my Github Stats" width=400 />
+    </a>
+  </div>
+  <div style="margin-bottom: 12px;">
+    <a href="https://git.io/streak-stats" target="_blank">
+      <img height=200 src="${items.streaksUrl}" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div style="margin-bottom: 12px;">
+    <img src="${items.topLangsUrl}" alt="Top Langs" />
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+  </div>
 </div>`
 };
 
