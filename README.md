@@ -95,19 +95,11 @@ myInterests.add("I love coffee ☕");
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 12px 0 0;">
 <article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
   <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
-    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/unicaes-sin-ciclo-i-2026" style="text-decoration: none;">unicaes-sin-ciclo-i-2026</a></h4>
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/java-MyApp" style="text-decoration: none;">java-MyApp</a></h4>
     <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
-  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de notas de la asignatura Sistemas Informáticos (SIN) - UNICAES</p>
-  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; </p>
-</article>
-<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
-  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
-    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/unicaes-rei-ciclo-i-2026" style="text-decoration: none;">unicaes-rei-ciclo-i-2026</a></h4>
-    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
-  </header>
-  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de notas de la asignatura Redes Inalámbricas (REI) - UNICAES</p>
-  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; </p>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(EN) Java in VS Code exercise</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Java</code> &nbsp;·&nbsp; </p>
 </article>
 <article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
   <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
@@ -116,6 +108,14 @@ myInterests.add("I love coffee ☕");
   </header>
   <p style="margin: 6px 0 10px; font-size: 0.95rem;">Sistema de asistencias para una institución educativa. Registra entradas, calcula puntualidad y retardos, genera reportes y estadísticas para supervisión administrativa. (En pagina web con login)</p>
   <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Python</code> &nbsp;·&nbsp; 1 ⭐</p>
+</article>
+<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
+  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/unicaes-sin-ciclo-i-2026" style="text-decoration: none;">unicaes-sin-ciclo-i-2026</a></h4>
+    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
+  </header>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de notas de la asignatura Sistemas Informáticos (SIN) - UNICAES</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; </p>
 </article>
 </div>
 
