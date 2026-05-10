@@ -95,27 +95,27 @@ myInterests.add("I love coffee ☕");
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 12px 0 0;">
 <article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
   <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/swift-outlets" style="text-decoration: none;">swift-outlets</a></h4>
+    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
+  </header>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de las apps realizadas en la Práctica 4, Guía 4 de DAM2</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Swift</code> &nbsp;·&nbsp; </p>
+</article>
+<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
+  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/react-my-dev-portfolio" style="text-decoration: none;">react-my-dev-portfolio</a></h4>
+    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
+  </header>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(EN) My dev portfolio repository :p (50% completed)</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>JavaScript</code> &nbsp;·&nbsp; </p>
+</article>
+<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
+  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
     <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/swift-technodessv" style="text-decoration: none;">swift-technodessv</a></h4>
     <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
   <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de la Actividad 1 del 15% del Periodo III de DAM2</p>
   <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Swift</code> &nbsp;·&nbsp; </p>
-</article>
-<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
-  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
-    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/unicaes-sin-ciclo-i-2026" style="text-decoration: none;">unicaes-sin-ciclo-i-2026</a></h4>
-    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
-  </header>
-  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de notas de la asignatura Sistemas Informáticos (SIN) - UNICAES</p>
-  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; </p>
-</article>
-<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
-  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
-    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/ts-platzi-notes" style="text-decoration: none;">ts-platzi-notes</a></h4>
-    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
-  </header>
-  <p style="margin: 6px 0 10px; font-size: 0.95rem;">Primer repositorio dedicado a notas del Curso de TypeScript</p>
-  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; </p>
 </article>
 </div>
 
