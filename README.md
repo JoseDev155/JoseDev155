@@ -95,6 +95,14 @@ myInterests.add("I love coffee ☕");
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 12px 0 0;">
 <article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
   <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/php-cp-login" style="text-decoration: none;">php-cp-login</a></h4>
+    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
+  </header>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Página de login para portal cautivo de pfSense</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; </p>
+</article>
+<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
+  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
     <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/js-vandir" style="text-decoration: none;">js-vandir</a></h4>
     <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
@@ -108,14 +116,6 @@ myInterests.add("I love coffee ☕");
   </header>
   <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Aplicación web de gestión de inventario de SIN</p>
   <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Java</code> &nbsp;·&nbsp; </p>
-</article>
-<article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
-  <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
-    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/swift-technodessv" style="text-decoration: none;">swift-technodessv</a></h4>
-    <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
-  </header>
-  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Repositorio de la Actividad 1 del 15% del Periodo III de DAM2</p>
-  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Swift</code> &nbsp;·&nbsp; </p>
 </article>
 </div>
 
