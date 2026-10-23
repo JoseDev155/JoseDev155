@@ -98,8 +98,8 @@ myInterests.add("I love coffee ☕");
     <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/library-system" style="text-decoration: none;">library-system</a></h4>
     <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
-  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES)</p>
-  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Shell</code> &nbsp;·&nbsp; </p>
+  <p style="margin: 6px 0 10px; font-size: 0.95rem;">(ES) Concepto de libreria universitaria</p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>HTML</code> &nbsp;·&nbsp; </p>
 </article>
 <article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
   <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
