@@ -95,11 +95,11 @@ myInterests.add("I love coffee ☕");
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 12px 0 0;">
 <article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
   <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
-    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/aqua-workspace" style="text-decoration: none;">aqua-workspace</a></h4>
+    <h4 style="margin: 0; font-size: 1rem;"><a href="https://github.com/JoseDev155/aquarune" style="text-decoration: none;">aquarune</a></h4>
     <span style="font-size: 0.85rem; opacity: 0.8; white-space: nowrap;">🟢 Public</span>
   </header>
   <p style="margin: 6px 0 10px; font-size: 0.95rem;">(EN & ES)</p>
-  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; </p>
+  <p style="margin: 0; font-size: 0.9rem; opacity: 0.85;"><code>Unknown</code> &nbsp;·&nbsp; 1 ⭐</p>
 </article>
 <article style="border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 14px 16px; background: rgba(255, 255, 255, 0.04); text-align: left;">
   <header style="display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px;">
